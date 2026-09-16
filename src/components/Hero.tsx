@@ -79,7 +79,7 @@ export default function Hero() {
                 <Github size={18} />
               </a>
               <a
-                href="https://www.linkedin.com/in/khadija-ettouil-b54132241"
+                href="https://www.linkedin.com/in/khadija-e-b54132241"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2.5 rounded-xl bg-white/70 border border-slate-200 text-slate-500 hover:text-teal-600 hover:border-teal-300 transition-all duration-200"
