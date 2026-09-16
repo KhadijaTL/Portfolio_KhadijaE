@@ -12,7 +12,7 @@ const contactItems = [
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    value: 'khadija-ettouil-b54132241',
+    value: 'khadija-e-b54132241',
     href: 'https://www.linkedin.com/in/khadija-e-b54132241',
     desc: 'Connect professionally',
   },
