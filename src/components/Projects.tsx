@@ -5,9 +5,9 @@ const projects = [
   {
     title: 'Sports Analytics — Action Detection',
     description:
-      'AI-driven sports analytics using ViT and MViT architectures for real-time action detection in futsal with predictive player performance models.',
+      'AI-driven sports analytics using Deep Learning for real-time action Recognition with predictive player performance models.',
     image: 'images/sports.jpg',
-    tags: ['ViT', 'MViT', 'RNN', 'Sports Analytics', 'PyTorch'],
+    tags: ['deep Learning', 'Sports Analytics', 'PyTorch', 'OpenCV'],
     featured: false,
     github: 'https://github.com/KhadijaTL',
   },
@@ -23,9 +23,9 @@ const projects = [
   {
     title: 'Temporal Action Segmentation',
     description:
-      'Continuous factory activity recognition addressing long-term temporal dependencies in video streams using RNNs and Transformers.',
+      'Continuous factory activity recognition addressing long-term temporal dependencies in video streams.',
     image: 'images/activityRec.jpg',
-    tags: ['LSTM', 'Transformers', 'Video Analysis', 'Action Recognition'],
+    tags: ['Deep Learning', 'Video Analysis', 'Action Recognition'],
     featured: false,
     github: 'https://github.com/KhadijaTL',
   },
